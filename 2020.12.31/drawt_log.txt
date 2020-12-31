@@ -1,0 +1,8 @@
+AllocConsole: 3.891 ms
+Locale: ru-RU
+arg[0]: F:\src\drawt_bin\2020.12.31.22.49\drawt.exe
+pushAction(scenes[1], create)
+pushEntity(scenes[1], pencil{0})
+cleanup(pencil{0})
+Unfreed memory:
+1C77A54C428 (384 bytes) F:\src\drawt\dep\tl\include\tl\list.h(333) ""
